@@ -14,15 +14,6 @@ The dataset encapsulates diverse facets of online retail, featuring columns such
 
 ## Exploratory Data Analysis
 Unveiled essential insights through visualizations:
-### Univariate Analysis
-- Explored the distribution of CLV, revealing potential skewness.
-- Examined customer distribution across different regions.
-
-### Bivariate Analysis
-- Investigated the correlation between CLV and relevant factors like quantity and unit price.
-
-### Multivariate Analysis
-- Unearthed relationships and correlations between CLV, quantity, and unit price.
 
 ## Data Preprocessing
 - Identified and removed duplicate values to ensure data integrity.
